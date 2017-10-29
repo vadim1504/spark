@@ -11,6 +11,7 @@
     </parent>
 
     <artifactId>example</artifactId>
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
